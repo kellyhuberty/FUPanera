@@ -1,5 +1,5 @@
 
-MYIPADDRESS="70:56:81:bd:14:d3";
+MYIPADDRESS="aa:bb:cc:dd:ee:ff";
 
 echo $MYIPADDRESS;
 
